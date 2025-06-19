@@ -19,13 +19,13 @@ Essa é a minha trajetória até aqui — e estou pronta para os **próximos des
 
 ----
 ## 🧠 Skills Técnicas
-
+<br/>
 
 ### Sistemas Operacionais
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
-
+<br/>
 ### Ferramentas de Gestão e Produtividade
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Xray](https://img.shields.io/badge/Xray-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -33,32 +33,33 @@ Essa é a minha trajetória até aqui — e estou pronta para os **próximos des
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-
+<br/>
 ### IDEs e Editores
 [![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/)
 
-
+<br/>
 ### Linguagens e Tecnologias Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
+<br/>
 ### Linguagens e Metodologias de Teste
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-5FB709?style=for-the-badge&logo=cucumber&logoColor=white)
 
-
+<br/>
 ### Controle de Versão
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
+<br/>
 ### 🚧 Em Aprendizado
 - Postman (testes de API REST)
 - Cypress (automação de testes E2E)
 
+<br/>
 ## Atividades
 
  <div align="center">
@@ -66,7 +67,8 @@ Essa é a minha trajetória até aqui — e estou pronta para os **próximos des
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabriciabli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciabli&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
- 
+    
+<br/>
 ### ✍️ Repositório em evolução contínua. Feedbacks e sugestões são bem-vindos!
 
 <p align="center">
